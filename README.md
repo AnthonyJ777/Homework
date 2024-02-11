@@ -27,7 +27,7 @@
 ![](https://assets-global.website-files.com/64142097dba367215db4d3ae/644794238da47b845838f6f9_map.png)
 
 * Asilla's current R&D front focuses on their Human Science AI Research Team (HSAR), which was established in February 2023:
-    This teams aims to combine disciplies such as behavioural/criminal psychology with detection AI in order to more throughly solve dilemmas such as whether a subtle movement is human or mechnical, or to understand 'lead-up' behaviour to an event rather than only an obvious movement such as a fall
+    This teams aims to combine disciplies such as behavioural/criminal psychology with detection AI in order to more thoroughly solve dilemmas such as whether a subtle movement is human or mechanical, or to understand 'lead-up' behaviour to an event rather than only an obvious movement such as a fall
     This team is also focusing on how to combine generative AI with detection AI, in order that the above dilemmas be able to be machine-learned, thus saving time and human effort in data acquisition
 
 
