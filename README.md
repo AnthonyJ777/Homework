@@ -35,7 +35,7 @@
 
 * Asilla is in the Behavior Recognition AI sector
 
-* What have been the major trends and innovations of this domain over the last 5-10 years? Major trend and innovations in this sector over the past 5-10 years include:
+* Major trend and innovations in this sector over the past 5-10 years include:
 1. Convolutional neural networks (CNNs) and recurrent neural networks (RNNs):
     Convolution allows a neural network to measure sections of data that overlap with one another in order to create layers at a greater quantity and complexity, while recurrence allows the outputs of a neural network to recur to the inputs
 2. 3D convolutional neural networks (3D CNNs) and Long Short-Term Memory (LSTM) networks:
@@ -64,6 +64,6 @@
 
 * The profiles of the most successful AI imaging companies globally suggests AI imaging and security technology offered for use on things such as credit cards and IDs is very lucrative
 
-* This technology would make use of all the above-noted technological developments in this sector expect for probably 3D CNNs since credit cards and IDs are 2D; LTSM would seem to be especially important for financial security across time and purchases
+* This technology would make use of all the above-noted technological developments in this sector except for probably 3D CNNs since credit cards and IDs are 2D; LTSM would seem to be especially important for financial security across time and purchases
 
 * These technologies are appropriate for this product offer because credit cards and IDs require analysis/matching of facial pictures (CNNs), recurrence would allow security across cards and IDs belonging to the same person, etc.
